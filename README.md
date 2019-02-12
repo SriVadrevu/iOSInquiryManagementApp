@@ -7,5 +7,5 @@ Built entirely in-house with a powerful scalable back-end utilizing the FireBase
 
 <img src="http://robusly.com/assets/img/mobile/slider-screen.png" width="40%">
 
-<img src="http://robusly.com/assets/img/mobile/about-m-screen.png" width="40%">
+<img src="http://robusly.com/assets/img/mobile/about-m-screen.png" width="60%">
 
