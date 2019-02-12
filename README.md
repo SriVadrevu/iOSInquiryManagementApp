@@ -5,3 +5,4 @@ Built entirely in-house with a powerful scalable back-end powered by the FireBas
 
 ![iphone screenshot](http://robusly.com/assets/img/mobile/slider-screen.png | width=100)
 
+<img src="http://robusly.com/assets/img/mobile/slider-screen.png" width="40%">
