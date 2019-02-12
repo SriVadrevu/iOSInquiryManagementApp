@@ -3,6 +3,4 @@ The Robusly app is the way to manage, and centralize your online inquiries. Our 
 
 Built entirely in-house with a powerful scalable back-end powered by the FireBase suite.  
 
-![iphone screenshot](http://robusly.com/assets/img/mobile/slider-screen.png | width=100)
-
-<img src="http://robusly.com/assets/img/mobile/slider-screen.png" width="40%">
+<img src="http://robusly.com/assets/img/mobile/slider-screen.png" width="25%">
