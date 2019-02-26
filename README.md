@@ -7,7 +7,6 @@
   <i>Current accepted inquires as well as recently completed ones.</i>
 </p>
 <br>
-<br>
 
 The Robusly app is the way to manage, and centralize your online inquiries. The simple to use application helps any freelancer or business owner better obtain the necessary information from potential customers.
 
